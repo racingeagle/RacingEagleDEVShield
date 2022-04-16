@@ -1,2 +1,2 @@
 # RacingEagleDEVShield
-An Arduino Shield for pupils and beginners
+Ein Arduino Shield für Anfänger und Schüler
